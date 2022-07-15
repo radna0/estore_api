@@ -1,0 +1,84 @@
+{
+ "products": [
+    {
+        "id": 1,
+        "name": "Computer",
+        "image": "https://picsum.photos/id/1/200/300",
+        "alt": "image of a product",
+        "price": 90,
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus rhoncus urna eu arcu ultrices, sed rutrum felis viverra. Nulla quis lacinia nisi, vitae interdum ligula. Pellentesque semper est et justo aliquet, id rutrum justo ornare. Mauris venenatis, dolor id congue viverra, magna odio ultricies purus, ac finibus elit tortor et massa. Quisque vel ex id enim tristique vestibulum eget dapibus augue. Phasellus leo orci, laoreet vel libero quis, lobortis aliquet eros. Ut eu semper nibh, aliquam dictum dolor. Vivamus maximus aliquet convallis. Morbi faucibus lorem augue, sit amet lacinia tortor venenatis in. Vivamus nec ipsum facilisis metus finibus semper sed id augue. Integer eget imperdiet augue. Fusce nulla nunc, convallis vitae dui ut, sagittis lobortis sapien. Suspendisse venenatis nibh ipsum, sed mattis nisl blandit ut."
+    },
+    {
+        "id": 2,
+        "name": "Books",
+        "image": "https://picsum.photos/id/20/200/300",
+        "alt": "image of a product",
+        "price": 90,
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus rhoncus urna eu arcu ultrices, sed rutrum felis viverra. Nulla quis lacinia nisi, vitae interdum ligula. Pellentesque semper est et justo aliquet, id rutrum justo ornare. Mauris venenatis, dolor id congue viverra, magna odio ultricies purus, ac finibus elit tortor et massa. Quisque vel ex id enim tristique vestibulum eget dapibus augue. Phasellus leo orci, laoreet vel libero quis, lobortis aliquet eros. Ut eu semper nibh, aliquam dictum dolor. Vivamus maximus aliquet convallis. Morbi faucibus lorem augue, sit amet lacinia tortor venenatis in. Vivamus nec ipsum facilisis metus finibus semper sed id augue. Integer eget imperdiet augue. Fusce nulla nunc, convallis vitae dui ut, sagittis lobortis sapien. Suspendisse venenatis nibh ipsum, sed mattis nisl blandit ut."
+    },
+    {
+        "id": 3,
+        "name": "Cup",
+        "image": "https://picsum.photos/id/30/200/300",
+        "alt": "image of a product",
+        "price": 90,
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus rhoncus urna eu arcu ultrices, sed rutrum felis viverra. Nulla quis lacinia nisi, vitae interdum ligula. Pellentesque semper est et justo aliquet, id rutrum justo ornare. Mauris venenatis, dolor id congue viverra, magna odio ultricies purus, ac finibus elit tortor et massa. Quisque vel ex id enim tristique vestibulum eget dapibus augue. Phasellus leo orci, laoreet vel libero quis, lobortis aliquet eros. Ut eu semper nibh, aliquam dictum dolor. Vivamus maximus aliquet convallis. Morbi faucibus lorem augue, sit amet lacinia tortor venenatis in. Vivamus nec ipsum facilisis metus finibus semper sed id augue. Integer eget imperdiet augue. Fusce nulla nunc, convallis vitae dui ut, sagittis lobortis sapien. Suspendisse venenatis nibh ipsum, sed mattis nisl blandit ut."
+    },
+    {
+        "id": 4,
+        "name": "Cat",
+        "image": "https://picsum.photos/id/40/200/300",
+        "alt": "image of a product",
+        "price": 90,
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus rhoncus urna eu arcu ultrices, sed rutrum felis viverra. Nulla quis lacinia nisi, vitae interdum ligula. Pellentesque semper est et justo aliquet, id rutrum justo ornare. Mauris venenatis, dolor id congue viverra, magna odio ultricies purus, ac finibus elit tortor et massa. Quisque vel ex id enim tristique vestibulum eget dapibus augue. Phasellus leo orci, laoreet vel libero quis, lobortis aliquet eros. Ut eu semper nibh, aliquam dictum dolor. Vivamus maximus aliquet convallis. Morbi faucibus lorem augue, sit amet lacinia tortor venenatis in. Vivamus nec ipsum facilisis metus finibus semper sed id augue. Integer eget imperdiet augue. Fusce nulla nunc, convallis vitae dui ut, sagittis lobortis sapien. Suspendisse venenatis nibh ipsum, sed mattis nisl blandit ut."
+    },
+    {
+        "id": 5,
+        "name": "Bird",
+        "image": "https://picsum.photos/id/50/200/300",
+        "alt": "image of a product",
+        "price": 90,
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus rhoncus urna eu arcu ultrices, sed rutrum felis viverra. Nulla quis lacinia nisi, vitae interdum ligula. Pellentesque semper est et justo aliquet, id rutrum justo ornare. Mauris venenatis, dolor id congue viverra, magna odio ultricies purus, ac finibus elit tortor et massa. Quisque vel ex id enim tristique vestibulum eget dapibus augue. Phasellus leo orci, laoreet vel libero quis, lobortis aliquet eros. Ut eu semper nibh, aliquam dictum dolor. Vivamus maximus aliquet convallis. Morbi faucibus lorem augue, sit amet lacinia tortor venenatis in. Vivamus nec ipsum facilisis metus finibus semper sed id augue. Integer eget imperdiet augue. Fusce nulla nunc, convallis vitae dui ut, sagittis lobortis sapien. Suspendisse venenatis nibh ipsum, sed mattis nisl blandit ut."
+    },
+    {
+        "id": 6,
+        "name": "Desk",
+        "image": "https://picsum.photos/id/60/200/300",
+        "alt": "image of a product",
+        "price": 90,
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus rhoncus urna eu arcu ultrices, sed rutrum felis viverra. Nulla quis lacinia nisi, vitae interdum ligula. Pellentesque semper est et justo aliquet, id rutrum justo ornare. Mauris venenatis, dolor id congue viverra, magna odio ultricies purus, ac finibus elit tortor et massa. Quisque vel ex id enim tristique vestibulum eget dapibus augue. Phasellus leo orci, laoreet vel libero quis, lobortis aliquet eros. Ut eu semper nibh, aliquam dictum dolor. Vivamus maximus aliquet convallis. Morbi faucibus lorem augue, sit amet lacinia tortor venenatis in. Vivamus nec ipsum facilisis metus finibus semper sed id augue. Integer eget imperdiet augue. Fusce nulla nunc, convallis vitae dui ut, sagittis lobortis sapien. Suspendisse venenatis nibh ipsum, sed mattis nisl blandit ut."
+    },
+    {
+        "id": 7,
+        "name": "Tree",
+        "image": "https://picsum.photos/id/70/200/300",
+        "alt": "image of a product",
+        "price": 90,
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus rhoncus urna eu arcu ultrices, sed rutrum felis viverra. Nulla quis lacinia nisi, vitae interdum ligula. Pellentesque semper est et justo aliquet, id rutrum justo ornare. Mauris venenatis, dolor id congue viverra, magna odio ultricies purus, ac finibus elit tortor et massa. Quisque vel ex id enim tristique vestibulum eget dapibus augue. Phasellus leo orci, laoreet vel libero quis, lobortis aliquet eros. Ut eu semper nibh, aliquam dictum dolor. Vivamus maximus aliquet convallis. Morbi faucibus lorem augue, sit amet lacinia tortor venenatis in. Vivamus nec ipsum facilisis metus finibus semper sed id augue. Integer eget imperdiet augue. Fusce nulla nunc, convallis vitae dui ut, sagittis lobortis sapien. Suspendisse venenatis nibh ipsum, sed mattis nisl blandit ut."
+    },
+    {
+        "id": 8,
+        "name": "Plants",
+        "image": "https://picsum.photos/id/80/200/300",
+        "alt": "image of a product",
+        "price": 90,
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus rhoncus urna eu arcu ultrices, sed rutrum felis viverra. Nulla quis lacinia nisi, vitae interdum ligula. Pellentesque semper est et justo aliquet, id rutrum justo ornare. Mauris venenatis, dolor id congue viverra, magna odio ultricies purus, ac finibus elit tortor et massa. Quisque vel ex id enim tristique vestibulum eget dapibus augue. Phasellus leo orci, laoreet vel libero quis, lobortis aliquet eros. Ut eu semper nibh, aliquam dictum dolor. Vivamus maximus aliquet convallis. Morbi faucibus lorem augue, sit amet lacinia tortor venenatis in. Vivamus nec ipsum facilisis metus finibus semper sed id augue. Integer eget imperdiet augue. Fusce nulla nunc, convallis vitae dui ut, sagittis lobortis sapien. Suspendisse venenatis nibh ipsum, sed mattis nisl blandit ut."
+    }
+],
+ "comment" :[
+    {
+        "id": 1,
+        "image": "https://picsum.photos/200/300",
+        "name": "1",
+        "job": "test",
+        "comment": "lorem ipsum dolor sit amet, consectetur adip"
+    },
+    {
+        "id": 2,
+        "image": "https://picsum.photos/200/300",
+        "name": "2",
+        "job": "test",
+        "comment": "lorem ipsum dolor sit amet, consectetur adip"
+    }
+]
+}
