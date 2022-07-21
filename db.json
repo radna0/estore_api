@@ -1,7 +1,5 @@
 {
- "products": {
-  "totalProduct": 22,
-  "data":[
+ "products": [
     {
         "id": 1,
         "name": "Computer",
@@ -202,8 +200,7 @@
         "price": 90,
         "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus rhoncus urna eu arcu ultrices, sed rutrum felis viverra."
     }
-]
-},
+],
  "comment" :[
     {
         "id": 1,
